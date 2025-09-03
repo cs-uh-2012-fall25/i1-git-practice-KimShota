@@ -12,3 +12,6 @@ I fully resonated with the core message of this article, which is **we need to e
 
 ## Proof Reading 
 Article checked for typos
+
+## Comment by Yahyo
+I totally agree with the author's opinion in this article. While the AI may replace some Junior Software engineers, it actually leverages those who truly passionate for software engineering and eager to learn from it. In my case, while I loved software engineering, I couldn't imagine myself working as software engineer for full-time job. Therefore I am doing project management internship at startup, and I found it really fun as it is at the intersection of technology and human relationship. Overall, this was a good article.
