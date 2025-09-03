@@ -4,3 +4,6 @@ A simple project to practice a few git/github workflows.  Update this file as in
 
 ## My Name 
 Shota Matsumoto 
+
+## Pull Request I made
+This is the link to my merged PR: (https://github.com/cs-uh-2012-fall25/i1-git-practice-Fizzario/pull/3#event-19485512826)
